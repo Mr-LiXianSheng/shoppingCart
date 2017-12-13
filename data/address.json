@@ -1,0 +1,46 @@
+{
+  "status":0,
+  "message":"",
+  "result":[
+    {
+      "addressId":"100001",
+      "userName":"赵婧文",
+      "streetName":"北京市 东城区 外交部街西街",
+      "postCode":"100005",
+      "tel":"133-5657-6785",
+      "isDefault":true
+    },
+    {
+      "addressId":"100002",
+      "userName":"赵彪",
+      "streetName":"上海市 闵行区 佳宝一村东街",
+      "postCode":"201101",
+      "tel":"188-2057-1286",
+      "isDefault":false
+    },
+    {
+      "addressId":"100003",
+      "userName":"王凤玲",
+      "streetName":"北京市 朝阳区 朝阳公园南路双号",
+      "postCode":"100026",
+      "tel":"185-1027-4824",
+      "isDefault":false
+    },
+    {
+      "addressId":"100004",
+      "userName":"林亚辉",
+      "streetName":"北京市 昌平区 天通北苑三区",
+      "postCode":"102218",
+      "tel":"158-3717-5377",
+      "isDefault":false
+    },
+    {
+      "addressId":"100005",
+      "userName":"李秀莲",
+      "streetName":"上海市 嘉定区 博学路168号",
+      "postCode":"201801",
+      "tel":"151-9329-9001",
+      "isDefault":false
+    }
+  ]
+}

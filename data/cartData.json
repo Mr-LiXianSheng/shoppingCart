@@ -1,0 +1,73 @@
+{
+  "status": 1,
+  "result": {
+    "totalMoney": 109,
+    "list": [
+      {
+        "productId": "600100002115",
+        "productName": "Apple iPhone 6 32GB 金色 移动联通电信",
+        "productPrice": 2499.00,
+        "productQuantity": 60,
+        "productImage": "img/goods-1.jpg",
+        "parts": [
+          {
+            "partsId": "10001",
+            "partsName": "Apple MD818FE/A Lightning to USB iPhone/iPad/iPod 连接线/数据线1米"
+          },
+          {
+            "partsId": "10002",
+            "partsName": "Apple MD814CH/A 5W iPhone/iPad/iPod USB 充电器/电源适配器不含数据线"
+          }
+        ]
+      },
+      {
+        "productId": "600100002120",
+        "productName": "小米MIX2 全网通 6GB+64GB 黑色 移动",
+        "productPrice": 4999.00,
+        "productQuantity": 40,
+        "productImage": "img/goods-2.jpg",
+        "parts": [
+          {
+            "partsId": "20001",
+            "partsName": "Apple MD814CH/A 5W iPhone/iPad/iPod USB 充电器/电源适配器不含数据线"
+          },
+          {
+            "partsId": "20002",
+            "partsName": "技光（JEARLAKON）JK-D06 懒人手机支架 可折叠式桌面平板电脑iPad支架 铝合金通用手机架充电底座"
+          }
+        ]
+      },
+      {
+        "productId": "600100002117",
+        "productName": "荣耀8 4GB+64GB 全网通4G手机 魅海蓝",
+        "productPrice": 1699.00,
+        "productQuantity": 23,
+        "productImage": "img/goods-3.jpg",
+        "parts": [
+          {
+            "partsId": "10001",
+            "partsName": "小米(MI) 10000毫安 移动电源2/充电宝 双向快充 银色 适用于安卓/苹果/手机/平板等"
+          }
+        ]
+      },
+      {
+        "productId": "600100002117",
+        "productName": "OPPO R11s 全面屏双摄拍照手机 全网通",
+        "productPrice": 3199.00,
+        "productQuantity": 12,
+        "productImage": "img/goods-4.jpg",
+        "parts": [
+          {
+            "partsId": "10001",
+            "partsName": "Apple MD814CH/A 5W iPhone/iPad/iPod USB 充电器/电源适配器不含数据线"
+          },
+          {
+            "partsId": "10002",
+            "partsName": "小米(MI) 10000毫安 移动电源2/充电宝 双向快充 银色 适用于安卓/苹果/手机/平板等"
+          }
+        ]
+      }
+    ]
+  },
+  "message": ""
+}
